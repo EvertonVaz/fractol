@@ -1,0 +1,5 @@
+fractol
+bin/
+test.c
+*.out
+.vscode
